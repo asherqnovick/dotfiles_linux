@@ -1,0 +1,2 @@
+/Library/Application Support/Avid/Audio/Plug-Ins
+/Library/Audio/Plug-Ins
