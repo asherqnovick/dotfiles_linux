@@ -13,7 +13,7 @@ compinit
 PS1="%F{6}»%F{6} %~ %k%f"
 
 # Environment variables
-export EDITOR="hx"
+export EDITOR="nvim"
 export GOPATH="$HOME/go"
 export DESKTOP="$HOME/Desktop/"
 export PATH="$GOPATH/bin:$PATH"
